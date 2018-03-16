@@ -2,4 +2,4 @@
 
 AppboosterTech internal talk about MacOS productivity
 
-<img src="pictures/logo.png" width="250">
+<img src="pictures/logo.svg" width="250">
